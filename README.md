@@ -14,6 +14,9 @@ Actualmente me estoy especializando en **React** y **C#**, mientras mantengo una
 🌍 From Floridablanca, Colombia.  
 
 ---
+![Sheyla's GitHub stats](https://github-readme-stats.vercel.app/api?username=sheyla08samur&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sheyla08samur&layout=compact&theme=radical&title_color=FF69B4)
+
 
 ## 🚀 Technical Skills
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
@@ -23,8 +26,6 @@ Actualmente me estoy especializando en **React** y **C#**, mientras mantengo una
 ![MySql](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=fff)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=fff)
 ![PstgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=fff)
-![Sheyla's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&title_color=FF69B4&icon_color=FF69B4)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical&title_color=FF69B4)
 
 
 ---
