@@ -1,6 +1,8 @@
 <p align="center">
   <!-- Título animado -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=%23+Hi!+I'm+Sheyla+Samur👋;Full+Stack+Developer;Always+learning,+always+improving&color=FF69B4;1E90FF;9370DB" alt="Título animado" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=%23+Hi!+I'm+Sheyla+Samur👋;Full+Stack+Developer;Always+learning,+always+improving" alt="Título animado" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=800&lines=%C2%A1Hola+Mundo%21+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Sheyla+Samur+Rojas+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Desarrollador+FullStack+%F0%9F%92%BB%F0%9F%93%A6;Desde+Bucaramanga+%F0%9F%8C%8D%F0%9F%97%BA;Aprendizaje+continuo+%F0%9F%93%9A%F0%9F%94%97" alt="Título animado" />   </p>
 </p>
 
 💻 **Full Stack Developer** with a passion for learning and creating innovative solutions..  
